@@ -1,0 +1,32 @@
+[   60615ms] [ERROR] ./src/app/main-content.tsx:110:20
+Parsing ecmascript source code failed
+  108 |                       </ResizablePanel>
+  109 |                     </ResizablePanelGroup>
+> 110 |                   )}
+      |                    ^
+  111 |                 </div>
+  112 |               </div>
+  113 |             </ResizablePanel>
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/app/main-content.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   60751ms] [ERROR] ./src/app/main-content.tsx:110:20
+Parsing ecmascript source code failed
+  108 |                       </ResizablePanel>
+  109 |                     </ResizablePanelGroup>
+> 110 |                   )}
+      |                    ^
+  111 |                 </div>
+  112 |               </div>
+  113 |             </ResizablePanel>
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/app/main-content.tsx
+    ./src/app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359

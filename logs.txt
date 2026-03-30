@@ -1,0 +1,29 @@
+
+> uigen@0.1.0 dev
+> NODE_OPTIONS='--require ./node-compat.cjs' next dev --turbopack
+
+   ▲ Next.js 15.5.14 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.1.0.170:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 533ms
+ ✓ Ready in 1900ms
+ ○ Compiling / ...
+ ✓ Compiled / in 9.9s
+ GET / 200 in 11014ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 618ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 917ms
+ ✓ Compiled in 169ms
+ ✓ Compiled in 134ms
+ ✓ Compiled in 123ms
+ ✓ Compiled / in 71ms
+ GET / 200 in 400ms
+ GET / 200 in 715ms
